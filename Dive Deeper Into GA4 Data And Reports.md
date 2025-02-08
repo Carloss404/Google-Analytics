@@ -1,15 +1,15 @@
 ## Answer Business Questions with Standard Reports
 
-**Use Acquisition Reports to Understand Site or App Traffic**
+**Use Acquisition Reports to Understand Site or App Traffic:**
 Google Analytics lets you know where website traffic comes from and how it changes over time. By analyzing acquisition reports, for example, you can identify significant changes, such as a 70% increase in cross-network traffic, and investigate the underlying reasons for these changes.
 
-**Analyze Campaign Performance Using Sessions to Improve Results**
+**Analyze Campaign Performance Using Sessions to Improve Results:**
 Analyze the performance of different marketing campaigns by examining metrics like engaged sessions and key events. By comparing metrics across campaigns, you can identify strengths and weaknesses, such as lower engagement and and fewer key events, and make informed decisions to optimize campaigns for better results.
 
-**Explore Optimization Strategies to Maximize Campaigns**
+**Explore Optimization Strategies to Maximize Campaigns:**
 Leverage the insights from Google Analytics reports to optimize your campaigns. For example, optimize landing pages, consider reallocating budget between campaigns, or refine campaign audiences to improve overall performance and maximize campaign impact.
 
-**Acquisition Reports**
+**Acquisition Reports:**
 Lets you know how users are finding my website or app for the first time.
 
 ---
@@ -46,13 +46,13 @@ Path
 
 ## Use Key Events to Grow Your Business
 
-**Google Analytics conversions are now key events**
+**Google Analytics conversions are now key events:**
 Previously, important events that were marked as conversions in Google Analytics were measured differently from how Google Ads conversions are measured, leading to discrepancies between Google Ads and Google Analytics. From now on, events that measure actions that are important to the success of your business are called *key events.* These key events, when shared with Google Ads, will be considered conversions, facilitating more accurate performance measurement of ad campaigns and enabling better-informed marketing decisions.
 
-**Measure and visualize different interactions happening on your website or app**
+**Measure and visualize different interactions happening on your website or app:**
 Google Analytics allows you to identify and measure specific interactions on your website or app through events. Key events, such as signing up for a newsletter or making a purchase, are particularly crucial as they represent valuable interactions that can be easily measured across various report in Google Analytics.
 
-**Use key events to create conversions to maximize your overall strategy**
+**Use key events to create conversions to maximize your overall strategy:**
 By using key events to create conversions, you can track and analyze the performance of your ad campaigns, understand their impact on business value, and optimizing bidding strategies in Google Ads.
 
 ### Module Questions
@@ -74,21 +74,21 @@ What three sections in Google Analytics use key events to measure the most impor
 - Creating a summary card
 - Linking or unlinking the report
 
-**Customize a report**
+**Customize a report:**
 - Customize existing reports to highlight information important to your business beyond what's surfaced in the built-in reports.
 - You can save a custom report for information you return to and review frequently.
 
-**Use an exploration**
+**Use an exploration:**
 - Use an exploration for more active analysis and to uncover deeper insights about your customer's behavior.
 - You can use explorations to create ad hoc queries and quickly drill down into the data.
 
-**Edit existing reports**
+**Edit existing reports:**
 Customize existing reports by accessing the report customization screen, where you can modify dimensions, metrics, and chart types according to your preferences. For example, in the traffic acquisition report, you can easily change the primary dimension from session default channel group to session source/medium and adjust chart types to suit your analysis needs.
 
-**Customize reports to address specific needs**
+**Customize reports to address specific needs:**
 Google Analytics offers a range of built-in reports, but sometimes, the question or insights you seek may require customization. The result is a tailored analytics experience to focus on the metrics and dimensions that matter the most to your business, enabling more informed decision-making and deeper insights into performance.
 
-**Create custom reports from scratch to meet specific analysis requirements**
+**Create custom reports from scratch to meet specific analysis requirements:**
 This process involves selecting relevant metrics and dimensions, including custom ones if necessary. For instance, you could create a custom report that includes metrics like sessions, total users, purchases, and total revenue alongside a custom dimension like member level to analyze user behavior based on membership tiers.
 
 ### Module Questions
